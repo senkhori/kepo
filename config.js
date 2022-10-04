@@ -29,7 +29,7 @@ global.namaowner = 'Nizar Rahman'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082','6281223618476','6283120240903']
+global.owner = ['6281386945391','6281223618476','6283120240903']
 global.premium = ['6281386945391','6281223618476','6283220240903']
 
 //—————「 Setting Nomor Donasi 」—————//
